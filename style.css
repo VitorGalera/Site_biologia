@@ -7,14 +7,14 @@ html, body {
 
 /* Título Principal */
 .section-title {
-    font-size: 36px; /* Tamanho da fonte */
+    font-size: 20px; /* Tamanho da fonte */
     font-weight: bold; /* Deixa o título em negrito */
     color: white; /* Cor do texto */
     text-align: center; /* Centraliza o texto */
     padding: 20px; /* Adiciona espaçamento interno ao redor do texto */
     background-color: #2CC828; /* Cor de fundo do retângulo */
     border-radius: 8px; /* Bordas arredondadas no retângulo */
-    margin: 20px 0; /* Espaçamento externo em cima e embaixo */
+    margin: 8px 0; /* Espaçamento externo em cima e embaixo */
     width: fit-content; /* Faz com que o retângulo tenha o tamanho do texto */
     margin-left: auto; /* Centraliza horizontalmente */
     margin-right: auto; /* Centraliza horizontalmente */
