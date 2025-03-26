@@ -11,7 +11,7 @@ html, body {
     font-weight: bold; /* Deixa o título em negrito */
     color: white; /* Cor do texto */
     text-align: center; /* Centraliza o texto */
-    padding: px; /* Adiciona espaçamento interno ao redor do texto */
+    padding: 15px; /* Adiciona espaçamento interno ao redor do texto */
     background-color: #2CC828; /* Cor de fundo do retângulo */
     border-radius: 8px; /* Bordas arredondadas no retângulo */
     margin: 20px 0; /* Espaçamento externo em cima e embaixo */
