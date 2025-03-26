@@ -74,6 +74,7 @@ body {
     text-align: left;
 }
 
+/* Estilos para as imagens retangulares com bordas arredondadas */
 .image-stack {
     display: flex;
     flex-direction: column;
@@ -81,12 +82,13 @@ body {
 }
 
 .circle-img {
-    width: 120px;
-    height: 120px;
-    border-radius: 50%;
-    margin: 5px 0;
-    object-fit: cover;
+    width: 250px; /* Aumenta o tamanho das imagens */
+    height: 150px; /* Define uma altura proporcional */
+    border-radius: 20px; /* Borda arredondada */
+    margin: 10px 0; /* Espaçamento entre as imagens */
+    object-fit: cover; /* Garante que as imagens se ajustem bem dentro do retângulo */
 }
+
 
 /* Rodapé */
 .footer {
